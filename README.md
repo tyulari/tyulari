@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Tanya 👋
+- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🔭 I'm also interested in systems analysis
 
 <!--
 **tyulari/tyulari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![codewars](https://www.codewars.com/users/TLary/badges/small)](https://www.codewars.com/users/TLary) 
